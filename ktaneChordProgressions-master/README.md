@@ -1,0 +1,1 @@
+Chord Progression is a regular module for KTaNE
